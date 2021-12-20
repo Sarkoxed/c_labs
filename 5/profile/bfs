@@ -1,0 +1,22 @@
+             BFS PROFILING
+Test 2, num of vers: 40000, num of edges; 99997, time: 2530303 2.530303
+Test 3, num of vers: 60000, num of edges; 72623, time: 3431 0.003432
+Test 4, num of vers: 80000, num of edges; 172621, time: 6572287 6.572288
+Test 5, num of vers: 100000, num of edges; 185247, time: 5396312 5.396312
+Test 6, num of vers: 120000, num of edges; 217872, time: 7344576 7.344577
+Test 7, num of vers: 140000, num of edges; 163124, time: 4235 0.004235
+Test 8, num of vers: 160000, num of edges; 235749, time: 4571 0.004571
+Test 9, num of vers: 180000, num of edges; 221001, time: 5248 0.005249
+Test 10, num of vers: 200000, num of edges; 333625, time: 9896868 9.896869
+//O(2*|V|+|E|)
+
+
+179999      2530303
+299998      3431
+439998      6572287
+599997      5396312
+779997      7344576
+979996      4235
+1199996     4571
+1439995     5248
+1699995     9896868

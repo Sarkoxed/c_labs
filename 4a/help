@@ -1,0 +1,33 @@
+show.py:
+
+$1: 
+-h if your file in root
+-x if yput file in tests/
+
+$2:
+size of box of key
+
+$3:
+if -h: just number
+else: full path
+
+
+try.sh:
+
+./try.sh -s int -i 31 -n
+$1:
+-s if you wanna cat sorted textfile
+-sn else
+
+$2:
+filename
+
+$3:
+"-"+something to get range
+something to get random numbers
+
+$4:
+amount of elements
+
+$5:
+-n if you wanna create new textfile

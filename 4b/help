@@ -1,0 +1,29 @@
+show.py:
+
+$1:
+size of box of key
+
+$2:
+full path to file
+
+
+try.sh:
+
+./try.sh -s int -i 31 -n
+$1:
+-s if you wanna cat sorted textfile
+-sn else
+
+$2:
+filename
+
+$3:
+"-"+something to get range
+
+something to get random numbers
+
+$4:
+amount of elements
+
+$5:
+-n if you wanna create new textfile
